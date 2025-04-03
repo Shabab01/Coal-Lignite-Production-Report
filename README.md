@@ -1,7 +1,3 @@
-Here's a more detailed and structured README for your GitHub repository:  
-
----
-
 # 🏭 **Coal/Lignite Production Report (2019-2020)**  
 
 This repository provides an interactive data visualization report on **Coal and Lignite production in India** for the year **2019-2020**. The report includes **state-wise, mine-wise, and ownership-wise production details**, offering valuable insights for policymakers, researchers, and industry experts.  
